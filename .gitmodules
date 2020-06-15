@@ -1,24 +1,18 @@
 [submodule "cds_ff_mpt"]
 	path = cds_ff_mpt
-	url = https://github.com/ucb-art/cds_ff_mpt.git
+	url = https://github.com/AlainAnton/cds_ff_mpt.git
 [submodule "BAG_XBase_demo"]
 	path = BAG_XBase_demo
-	url = https://github.com/ucb-art/BAG_XBase_demo.git
+	url = https://github.com/AlainAnton/BAG_XBase_demo.git
 [submodule "bag_advanced_examples"]
 	path = bag_advanced_examples
-	url = https://github.com/ucb-art/bag_advanced_examples.git
+	url = https://github.com/AlainAnton/bag_advanced_examples.git
 [submodule "bag_testbenches"]
 	path = bag_testbenches
-	url = https://github.com/ucb-art/bag_testbenches.git
-[submodule "240b_AB_HS"]
-	path = 240b_AB_HS
-	url = git@github.com:sehuang/240b_AB_HS.git
-[submodule "bag_analog_ec"]
-	path = bag_analog_ec
-	url = git@github.com:ucb-art/bag_analog_ec.git
+	url = https://github.com/AlainAnton/bag_testbenches.git
 [submodule "BAG_framework"]
 	path = BAG_framework
-	url = git@github.com:ucb-art/BAG_framework.git
+	url = https://github.com/AlainAnton/BAG_framework.git
 [submodule "BAG2_TEMPLATES_EC"]
 	path = BAG2_TEMPLATES_EC
-	url = git@github.com:ucb-art/BAG2_TEMPLATES_EC.git
+	url = https://github.com/AlainAnton/BAG2_TEMPLATES_EC.git
